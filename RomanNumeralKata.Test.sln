@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralKata.Test", "RomanNumeralKata.Test\RomanNumeralKata.Test.csproj", "{6DB73853-B046-47A8-90E4-8AA09CA49600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralKata.Application", "RomanNumeralKata.Application\RomanNumeralKata.Application.csproj", "{7015DCC5-7545-45F8-B570-C00F904B694F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB73853-B046-47A8-90E4-8AA09CA49600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB73853-B046-47A8-90E4-8AA09CA49600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB73853-B046-47A8-90E4-8AA09CA49600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB73853-B046-47A8-90E4-8AA09CA49600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7015DCC5-7545-45F8-B570-C00F904B694F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7015DCC5-7545-45F8-B570-C00F904B694F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7015DCC5-7545-45F8-B570-C00F904B694F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7015DCC5-7545-45F8-B570-C00F904B694F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A78BF7E-12F3-400B-B665-1113895DEF38}
+	EndGlobalSection
+EndGlobal
